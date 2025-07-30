@@ -1,0 +1,1 @@
+spam = ['apples', 'bananas', 'tofu', 'cats']
