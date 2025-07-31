@@ -62,6 +62,7 @@ Let's say you just completed working on file reading and writing, and you want t
 - Used `Path.exists()` to check if file exists before reading
 
 ### Code Examples I Created
+```
 ```python
 # Reading files safely
 from pathlib import Path
@@ -73,7 +74,7 @@ if file_path.exists():
 else:
     print("File not found!")
 ```
-
+```markdown
 ### Next Steps
 - [ ] Practice with CSV file reading
 - [ ] Learn about JSON file operations
