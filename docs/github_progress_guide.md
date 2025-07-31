@@ -228,7 +228,7 @@ Use this template for each new learning session:
 # Your code example here
 print("Hello, World!")
 ```
-
+```markdown
 ### Next Steps
 - [ ] Next thing to learn
 - [ ] Practice this concept
