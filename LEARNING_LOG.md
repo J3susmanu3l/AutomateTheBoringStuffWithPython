@@ -1,4 +1,32 @@
 # Learning Log - Python Journey
+## 📅 2025-08-01 - Project Setup and Organization
+
+### What I Learned Today
+- **Pathlib Path library module**: 
+-  How to write directories path with the Path() function
+- How to find the current directory at which the file I am working with is at using the Path.cwd() function
+- How to change the directory path using the chdir() function
+
+### Challenges Faced
+- Understanding wether the chdir() function actually changes the location of the file in the directory or it just changes it in the terminal
+- How the Path() function can be called in multiple ways. Like calling it with a forward slash after the main path
+
+### Solutions Found
+tested printing path before changing and after changing it with the next code:
+``` python
+from pathlib import Path
+    import os
+    print(Path.cwd())
+    os.chdir(Path(r'c:\Users\jesus\OneDrive\Escritorio\AutomateTheBoringStuffWithPython/src'))
+    print(Path.cwd())
+    # while testing I see that the file location in the terminal changes for the  os.chdir() function, but it actually doesn't 
+    # change it in the system. Just in the terminal. It is making me wonder why this is used for.
+```
+### Next Steps
+- finish understaing how absolute vs relative paths and how they are handled
+- Learn how to create a new folder or directory
+- Getting the Parts of a Filepath
+
 
 ## 📅 2025-07-30 - Project Setup and Organization
 
