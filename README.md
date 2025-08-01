@@ -16,7 +16,7 @@ This repository contains my learning progress through "Automate the Boring Stuff
 - [ ] **Web Scraping** - Extracting data from websites
 - [ ] **Working with Excel** - CSV and spreadsheet processing
 - [ ] **Automation Projects** - Real-world automation tasks
-
+- [ ]
 ## 📁 Project Structure
 
 ```
