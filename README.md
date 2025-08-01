@@ -141,7 +141,6 @@ This is a personal learning project, but suggestions and feedback are welcome!
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - The book that inspired this project
 - [Python Documentation](https://docs.python.org/) - Official Python documentation
-- [Real Python](https://realpython.com/) - Excellent Python tutorials
 
 ## 📈 Progress Tracking
 
